@@ -1,0 +1,1 @@
+// 1.Crea una variables para cada operación aritmetica
